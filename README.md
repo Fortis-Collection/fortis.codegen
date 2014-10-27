@@ -1,4 +1,8 @@
 fortis.codegen
 ==============
 
-A .NET library to help with generating code based on the Fortis framework
+
+
+### License
+
+The software can be used under the MIT licence and can be found here https://github.com/Fortis-Collection/fortis.codegen/blob/master/LICENSE
